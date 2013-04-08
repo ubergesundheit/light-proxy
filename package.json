@@ -1,0 +1,9 @@
+{
+	"name":	"light-proxy",
+	"version": "0.0.1",
+	"main":	"light-proxy.js",
+	"dependencies": 
+	{
+		"express": "*"
+	}
+}
