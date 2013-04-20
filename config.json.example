@@ -1,3 +1,5 @@
 {
-	"switchIP": "xxx.xxx.xxx.xxx"
+	"switchIP": "xxx.xxx.xxx.xxx",
+	"username": "user",
+	"password": "passwd"	
 }
